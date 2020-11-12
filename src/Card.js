@@ -22,7 +22,7 @@ Card.propTypes = {
     'justMismatched',
     'visible',
   ]).isRequired,
-  inedx: PropTypes.number.isRequired,
+  index: PropTypes.number.isRequired,
   onClick: PropTypes.func.isRequired,
 }
 
